@@ -16,6 +16,12 @@ intro.py
 
 ## Hello World / Echo Bot
 
+* Good morning / afternoon / evening Bot
+
+## Math Bot
+
+* https://www.geekwire.com/2013/commentary-taught-kids-python-programming/
+
 ## Lunch
 
 ## Weather API Bot
