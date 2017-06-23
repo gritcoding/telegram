@@ -1,20 +1,20 @@
 Note: Originally created Summer 2016. Probably needs updating.
 
-#Raspberry Pi Setup
+# Raspberry Pi Setup
 
 * http://www.raspberrypi.org/help/quick-start-guide/
 * Install OS (either NOOBS preinstalled or Download)
 
-###NOOBS (New Out Of Box Software)
+### NOOBS (New Out Of Box Software)
 * Raspbian
 * Language: English (US)
 * Keyboard: us
 
-###Download and install Raspbian
+### Download and install Raspbian
 * http://www.raspberrypi.org/downloads/
 * http://www.raspberrypi.org/documentation/
 
-###raspi-config
+### raspi-config
 * Expand file system
 * Boot option: graphical desktop
 * Internationalisation: 
@@ -27,14 +27,14 @@ Note: Originally created Summer 2016. Probably needs updating.
 * Overscan: disable
 * Finish, Reboot
 
-###Wifi Config
+### Wifi Config
 * Scan
 * SSID: double click on your wifi router name
 * PSK: your wifi router’s password
 * Add
 * Close
 
-###Updates and Installations
+### Updates and Installations
 * LXTerminal (login: pi   passwd: raspberry)
  * `ping google.com` (test connectivity, CTRL-C to stop)
  * `sudo apt-get update` (update the software repository)
@@ -52,7 +52,7 @@ Note: Originally created Summer 2016. Probably needs updating.
     * `sudo nano /boot/cmdline.txt`
     * add `usbhid.mousepoll=0`
 
-###Tips
+### Tips
 
 * The nano wifi USB adapter has limited range. You want it close to your wifi router.
 * Multiple tabs on the browser will quickly drain RAM and CPU.
