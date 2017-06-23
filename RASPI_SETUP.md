@@ -1,3 +1,5 @@
+Note: Originally created Summer 2016. Probably needs updating.
+
 #Raspberry Pi Setup
 
 * http://www.raspberrypi.org/help/quick-start-guide/
