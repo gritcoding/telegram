@@ -4,6 +4,12 @@
 
 ## Ice Breaker
 
+## Raspberry Pi intro
+
+* Video: What is Raspberry Pi?
+* Unbox, assemble, turn on Raspi
+* Video: Pair Programming
+
 ## Python intro
 
 intro.py
