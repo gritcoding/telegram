@@ -4,12 +4,15 @@
 
 ### Intro + Ice Breaker: 9:30 - 10:00
 
+* Ice breaker: programming?
+
 ### Speed Networking: 10:00 - 11:00
 
 ## Programming Workshop
 
 ### Introductions: 11:05 - 11:10
 
+* Student-Vonteer pairings and seating.
 * Volunteers and students say hello.
 * Students: names, form, school, why they are here, what they hope to learn.
 * Vounteer: name, what they do, why they enjoy programming. Introduce your students to the rest of the class.
