@@ -9,6 +9,7 @@
 * Video: What is Raspberry Pi?
 * Unbox, assemble, turn on Raspi
 * Video: Pair Programming
+* Video: Hour of Code: what is programming?
 
 ## Python intro
 
