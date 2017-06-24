@@ -52,6 +52,9 @@ intro.py
 
 ### The End: 16:45 - 17:00
 
+* [Student Survey](https://goo.gl/forms/NoldzzeR92vCXG5G3)
+* [Volunteer Survey]() 
 * Group photos
 * Certificates
+
 
