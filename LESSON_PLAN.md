@@ -19,10 +19,10 @@
 
 ### Raspberry Pi, programming intro: 11:10 - 11:30
 
-* Video: What is Raspberry Pi?
+* Video: [What is Raspberry Pi?](https://www.youtube.com/watch?v=uXUjwk2-qx4)
 * Unbox, assemble, turn on Raspi
-* Video: Hour of Code: what is programming?
-* Video: Pair Programming
+* Video: [Code Stars](https://www.youtube.com/watch?v=dU1xS07N-FA) (first minute)
+* Video: [Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
 
 ### Python intro: 11:30 - 12:15
 
