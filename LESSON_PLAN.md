@@ -30,6 +30,8 @@ intro.py
 
 ### Hello World / Echo Bot / Math Bot: 12:15 - 13:00
 
+https://github.com/gritcoding/telegram/blob/master/BOT_INTRO.md
+
 * Intro to Telegram
 * Time of day (morning / afternoon / evening) Bot
 * Math bot: https://www.geekwire.com/2013/commentary-taught-kids-python-programming/
