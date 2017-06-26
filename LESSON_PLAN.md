@@ -46,7 +46,7 @@ intro.py
 * Choice of APIs?
 * Bot extensions
 
-### Sharing and presentation: 16:30 - 16:45
+### Sharing and presentation: 16:15 - 16:45
 
 ### The End: 16:45 - 17:15
 
