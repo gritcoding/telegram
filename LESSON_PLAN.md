@@ -2,13 +2,13 @@
 
 ## Introduction & Networking
 
-### Intro + Ice Breaker: 9:30 - 10:00
+### Intro: 9:30 - 9:45 [?]
 
-* Ice breaker: programming?
+### Ice breaker: 9.45 - 10:00 [Vicky]
 
-### Speed Networking: 10:00 - 11:00
+### Speed Networking: 10:00 - 11:00 [Rebecca, Sarah ?]
 
-## Programming Workshop
+## Programming Workshop [Naeem, Anakin, Reno, Tino]
 
 ### Introductions: 11:05 - 11:10
 
