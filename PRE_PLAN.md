@@ -3,7 +3,7 @@
 ## Students
 
 * Complete [Survey](https://goo.gl/forms/mBxLLekZnuqzZFo13) (5 minutes)
-* [Download Telegram](https://telegram.org) on your phone (5 minutes)
+* Optional (but encouraged!) [Download Telegram](https://telegram.org) on your phone (5 minutes)
   * Optional: Learn about [Telegram Bots](https://core.telegram.org/bots)
 * Video: What is the Internet? (10 minutes)
   * [code.org](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
