@@ -1,4 +1,4 @@
-# Pre-Lesson Tasks: : TWF 20170707
+# Pre-Lesson Tasks: TWF 20170707
 
 ## Students
 
