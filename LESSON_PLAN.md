@@ -32,7 +32,7 @@ intro.py
 
 [Telegram and Bit introduction](BOT_INTRO.md)
 
-## Tour & Lunch
+## Tour & Lunch [Rebecca, Sarah]
 
 ### Office Tour: 13:00 - 13:30
 
@@ -54,5 +54,3 @@ intro.py
 * Volunteer Survey
 * Group photos
 * Certificates
-
-
