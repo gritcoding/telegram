@@ -39,7 +39,7 @@
   * for loop
   * Collections: list, dictionary
 * If the output gets messy comment out some of the earlier code
-  * # single line comment
+  * \# single line comment
   * ''' multi line comment
 * Optional (can skip these):
   * 18, 19, 20, 21, 23
