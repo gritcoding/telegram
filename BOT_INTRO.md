@@ -11,6 +11,10 @@
   * The username of your Bot must end in 'bot'.
   * Copy the 'token' and keep it safe. We will use this token to connect to our Bot using python code!
   * More intructions here: https://core.telegram.org/bots#6-botfather
+* Start chatting with your Bot.
+  * Search for your Bot by name (or username to be more specific).
+  * Select your Bot to start chatting.
+  * Not very chatty? Let's fix that by programming it!
 
 ## Python
 
