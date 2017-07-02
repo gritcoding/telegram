@@ -9,8 +9,8 @@
 * `/newbot` to create a new Bot.
   * You can name your Bot whatever you like!
   * The username of your Bot must end in 'bot'.
-  * More intructions here: https://core.telegram.org/bots#6-botfather
   * Copy the 'token' and keep it safe. We will use this token to connect to our Bot using python code!
+  * More intructions here: https://core.telegram.org/bots#6-botfather
 
 * Intro to Telegram
 * Time of day (morning / afternoon / evening) Bot
