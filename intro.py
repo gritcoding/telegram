@@ -119,6 +119,9 @@ message = greeting + name
 
 # GO!
 
+# Note: functions start with 'def', a list of parameters, a colon (:) to start the code block,
+#       indented (spaced) code block, and finally a 'return' to end the function.
+
 # 10. Another variable type is called a boolean
 # This means either True or False
 
