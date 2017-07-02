@@ -24,7 +24,6 @@
 * Optional: Python Intro
   * [Code Combat](https://codecombat.com/play?hour_of_code=true)
   * [Penjee](https://penjee.com/hoc/welcome)
-
 * Raspi setup:
   * Timezone: Asia / Hong Kong
   * Keyboard: US
