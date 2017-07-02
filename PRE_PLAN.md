@@ -28,5 +28,6 @@
 * Raspi setup:
   * Timezone: Asia / Hong Kong
   * Keyboard: US
-  * 
-  * 
+* OpenWeatherMap:
+  * Get an API key: http://openweathermap.org/appid
+
