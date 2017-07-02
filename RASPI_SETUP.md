@@ -1,5 +1,3 @@
-Note: Originally created Summer 2016. Probably needs updating.
-
 # Raspberry Pi Setup
 
 * http://www.raspberrypi.org/help/quick-start-guide/
@@ -15,15 +13,15 @@ Note: Originally created Summer 2016. Probably needs updating.
 * http://www.raspberrypi.org/documentation/
 
 ### raspi-config
-* Expand file system
+* Expand file system (only if not baselining a new image)
 * Boot option: graphical desktop
 * Internationalisation: 
- * Timezone: Asia, Hong Kong
- * Keyboard: Generic 105-key Intl PC, Layout: English US, defaults
+  * Timezone: Asia, Hong Kong
+  * Keyboard: Generic 105-key Intl PC, Layout: English US, defaults
 * Enable Camera
 * Advanced
- * ssh enable
- * audio: auto / jack
+  * ssh enable
+  * audio: auto / jack
 * Overscan: disable
 * Finish, Reboot
 
@@ -37,14 +35,11 @@ Note: Originally created Summer 2016. Probably needs updating.
 ### Updates and Installations
 * LXTerminal (login: pi   passwd: raspberry)
  * `ping google.com` (test connectivity, CTRL-C to stop)
- * `sudo apt-get update` (update the software repository)
- * `sudo apt-get upgrade` (apply updates)
- * Install GPIO for Scratch: http://simplesi.net/scratchgpio/scratch-raspberrypi-gpio/
-   * The latest version of Scratch might be unstable (UI crash) -- if so, edit /opt/scratchgpio7/scratchgpio7.sh to use /usr/bin/scratch.old
+ * `sudo apt-get update` (optional update the software repository)
+ * `sudo apt-get upgrade` (optional apply updates)
  * `sudo rpi-update` (optional update firmware)
  * `sudo apt-get dist-upgrade` (optional update raspbian distribution)
- * `sudo apt-get install chromium` (optional install web browser)
- * `sudo apt-get install geany` (optional install editor)
+ * `sudo apt-get install geany` (optional editor)
  * `sudo apt-get install pi-bluetooth` (optional bluetooth support)
  * `sudo apt-get install blueman` (optional bluetooth UI)
  * `sudo apt-get clean` (house-keeping)
@@ -61,14 +56,14 @@ Note: Originally created Summer 2016. Probably needs updating.
 * USB storage is mounted to /media
 * To change the resolution (720p works well for the demo unit): https://www.raspberrypi.org/documentation/configuration/config-txt.md
 * Use omxplayer from the command line to play videos:
- * `omxplayer -b -o local video.mp4` (full screen, black bgrnd, audio jack)
- * SPACE pause; q quit
+  * `omxplayer -b -o local video.mp4` (full screen, black bgrnd, audio jack)
+  * SPACE pause; q quit
 * If you’re exploring for the first time, here are some things to try:
- * http://www.raspberrypi.org/learning/demo-programs/
- * http://www.raspberrypi.org/resources/learn/
- * http://www.raspberrypi.org/help/
+  * http://www.raspberrypi.org/learning/demo-programs/
+  * http://www.raspberrypi.org/resources/learn/
+  * http://www.raspberrypi.org/help/
 * Use scp to copy files between raspberry pis (make sure ssh server is enabled on remote host), e.g.
- * `scp myprogram.py 192.168.1.101:/home/pi/projects/.` (copy myprogram.py to user pi’s home projects directory on remote pi)
- * `scp 192.168.1.101:readme.txt .` (copy readme.txt in pi’s home directory from remote pi to current directory on local pi)
+  * `scp myprogram.py 192.168.1.101:/home/pi/projects/.` (copy myprogram.py to user pi’s home projects directory on remote pi)
+  * `scp 192.168.1.101:readme.txt .` (copy readme.txt in pi’s home directory from remote pi to current directory on local pi)
 
  
