@@ -28,8 +28,8 @@
 
 ### Python intro: 11:20 - 11:50
 
-* Start IDLE (Python 2) and open intro.py
-* Follow the instructions, press F5 to run your code
+* Start Thonny (Python IDE) and open intro.py
+* Follow the instructions, press F5 to run your code, CTRL+F5 to debug
 * In intro we will learn:
   * Python syntax (indentation for blocks!)
   * Variables (strings, numbers, booleans)
