@@ -27,6 +27,7 @@
 * Raspi setup:
   * Timezone: Asia / Hong Kong
   * Keyboard: US
+  * `git clone https://github.com/gritcoding/telegram.git`
 * OpenWeatherMap:
   * Get an API key: http://openweathermap.org/appid
 
