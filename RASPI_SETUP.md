@@ -1,16 +1,16 @@
 # Raspberry Pi Setup
 
 * http://www.raspberrypi.org/help/quick-start-guide/
+
+### Download and install Raspbian
 * Install OS (either NOOBS preinstalled or Download)
+* http://www.raspberrypi.org/downloads/
+* http://www.raspberrypi.org/documentation/
 
 ### NOOBS (New Out Of Box Software)
 * Raspbian
 * Language: English (US)
 * Keyboard: us
-
-### Download and install Raspbian
-* http://www.raspberrypi.org/downloads/
-* http://www.raspberrypi.org/documentation/
 
 ### raspi-config
 * Expand file system (only if not baselining a new image)
@@ -40,8 +40,6 @@
  * `sudo rpi-update` (optional update firmware)
  * `sudo apt-get dist-upgrade` (optional update raspbian distribution)
  * `sudo apt-get install geany` (optional editor)
- * `sudo apt-get install pi-bluetooth` (optional bluetooth support)
- * `sudo apt-get install blueman` (optional bluetooth UI)
  * `sudo apt-get clean` (house-keeping)
  * If the [mouse lags](https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=84999) (issue in Jessie), try the following:
     * `sudo nano /boot/cmdline.txt`
