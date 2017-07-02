@@ -29,13 +29,25 @@
 ### Python intro: 11:20 - 11:50
 
 * Start Thony (Python IDE) and open intro.py
+* Follow the instructions, press F5 to run your code, CTRL+F5 to debug
+* In intro we will learn:
+  * Python syntax (indentation for blocks!)
+  * Variables (strings, numbers, booleans)
+  * Operators
+  * User-defined functions
+  * if else
+  * for loop
+  * Collections: list, dictionary
+* If the output gets messy comment out some of the earlier code
+  * # single line comment
+  * ''' multi line comment
 * Optional (can skip these):
   * 18, 19, 20, 21, 23
-  * 23 is a fun little exercise and will earn a special bonus!
+  * 23 is a fun little exercise and will earn a special bonus if completed!
 
 ### Telegram Intro: 11:50 - 12:45
 
-[Telegram and Bit introduction](BOT_INTRO.md)
+[Telegram and Bot introduction](BOT_INTRO.md)
 
 ## Tour & Lunch [Rebecca, Sarah]
 
