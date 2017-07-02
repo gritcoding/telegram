@@ -2,13 +2,13 @@
 
 ## Introduction & Networking
 
-### Intro: 9:15 - 9:30 [Naeem, Lea?]
+### Intro: 9:15 - 9:30 [Naeem, Lea]
 
 ### Ice breaker: 9.30 - 9:45 [Vicky]
 
 ### Panel: 9.45 - 10:00 [Grace, Wiz, Lydia]
 
-### Speed Networking: 10:00 - 10:45 [Rebecca, Sarah ?]
+### Speed Networking: 10:00 - 10:45 [Rebecca, Sarah]
 
 ## Programming Workshop [Naeem, Anakin, Reno, Tino]
 
