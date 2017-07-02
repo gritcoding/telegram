@@ -2,15 +2,17 @@
 
 ## Introduction & Networking
 
-### Intro: 9:15 - 9:30 [Naeem, Lea]
+### Welcome: 9:00 - 9:15 [Rebecca]
 
-### Ice breaker: 9.30 - 9:45 [Vicky]
+### Intro: 9:15 - 9:25 [Naeem, Lea, TWF]
 
-### Panel: 9.45 - 10:00 [Grace, Wiz, Lydia]
+### Ice breaker: 9.25 - 9:40 [Vicky]
+
+### Panel: 9.40 - 10:00 [Grace, Wiz, Lydia]
 
 ### Speed Networking: 10:00 - 10:45 [Rebecca, Sarah]
 
-## Programming Workshop [Naeem, Anakin, Reno, Tino]
+## Programming Workshop [Naeem, Anakin, Reno, Tino, Vicky]
 
 ### Introductions: 10:50 - 11:00
 
@@ -56,7 +58,7 @@
 
 ### Lunch: 13:00 - 13:45
 
-## Back to work
+## Back to work [[Naeem, Anakin, Reno, Tino, Vicky]
 
 ### Weather API Bot: 13:45 - 16:00
 
