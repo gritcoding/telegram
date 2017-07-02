@@ -1,6 +1,7 @@
 # Welcome! This is a Python program file
 
 # Retrieved 201706 from https://www.raspberrypi.org/learning/python-intro/
+# (slightly modified to introduce functions)
 
 # The lines that start with a hash (#) are comments
 # They are for you to read and are ignored by Python
@@ -101,6 +102,22 @@ message = greeting + name
 # GO!
 
 # No error this time, I hope?
+
+# 9.1 You can define your own commands using a function.
+
+# def years_old( name, age ):
+#     # insert code here to print your name and age
+#     return
+
+# call your function using your name and age
+
+# GO!
+
+# What good is a function? Besides organizing your code better, you can call it over and over again.
+
+# Call your function many times with names and ages of friends and family.
+
+# GO!
 
 # 10. Another variable type is called a boolean
 # This means either True or False
@@ -376,5 +393,9 @@ for name in addresses:
 # GO!
 
 # Clue: range(10) => [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-# Clue: str(87) => '87'
-# Clue: int('9') => 9
+
+# Bonus: can you write your code in a function?
+
+# Clue: def sum (start, end)
+
+# Super bonus: rather the printing the result in the function, have it return the answer! Clue: return sum
