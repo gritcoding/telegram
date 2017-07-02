@@ -13,8 +13,6 @@
 * Keyboard: us
 
 ### raspi-config
-* Expand file system (only if not baselining a new image)
-* Boot option: graphical desktop
 * Internationalisation: 
   * Timezone: Asia, Hong Kong
   * Keyboard: Generic 105-key Intl PC, Layout: English US, defaults
@@ -24,13 +22,6 @@
   * audio: auto / jack
 * Overscan: disable
 * Finish, Reboot
-
-### Wifi Config
-* Scan
-* SSID: double click on your wifi router name
-* PSK: your wifi router’s password
-* Add
-* Close
 
 ### Updates and Installations
 * LXTerminal (login: pi   passwd: raspberry)
