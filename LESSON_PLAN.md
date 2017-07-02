@@ -41,6 +41,7 @@
 * If the output gets messy comment out some of the earlier code
   * \# single line comment
   * ''' multi line comment
+* To try commands you can type them in the shell directly.
 * Optional (can skip these):
   * 18, 19, 20, 21, 23
   * 23 is a fun little exercise and will earn a special bonus if completed!
