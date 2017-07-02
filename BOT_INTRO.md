@@ -21,10 +21,19 @@
 * We will use the *Telepot* Python framework for programming our bot.
   * If not already installed: `sudo pip install telepot`
   * Introduction, Reference and Examples: https://github.com/nickoala/telepot
-* Open `intro_bot.py` in IDLE.
+* Open `intro_bot.py`. Follow instructions. Make magic happen!
+
+## Parrot Bot
+
+* Now we will teach our Bot to talk back, with bells and whistles.
+* Open `parrot_boy.py` 
+
+## Polite Bot (optional)
+
+* Our Bot can be smarter. 
+* Open `polite_bot.py`
 
 ## Notes
 
-Time of day (morning / afternoon / evening) Bot
 Math bot: https://www.geekwire.com/2013/commentary-taught-kids-python-programming/
 
