@@ -49,10 +49,9 @@
 
 ### Tips
 
-* The nano wifi USB adapter has limited range. You want it close to your wifi router.
+* The wifi adapter has limited range. You want it close to your wifi router.
 * Multiple tabs on the browser will quickly drain RAM and CPU.
 * Time is updated (NTP) when you connect to Internet. The device has no battery so doesn’t keep time when turned off.
-* For the VILROS kit, don’t put on the top cover; it will be hard to access the camera interface.
 * USB storage is mounted to /media
 * To change the resolution (720p works well for the demo unit): https://www.raspberrypi.org/documentation/configuration/config-txt.md
 * Use omxplayer from the command line to play videos:
