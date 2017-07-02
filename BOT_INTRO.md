@@ -32,8 +32,3 @@
 
 * Our Bot can be smarter. 
 * Open `polite_bot.py`
-
-## Notes
-
-Math bot: https://www.geekwire.com/2013/commentary-taught-kids-python-programming/
-
