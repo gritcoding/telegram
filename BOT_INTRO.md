@@ -12,7 +12,15 @@
   * Copy the 'token' and keep it safe. We will use this token to connect to our Bot using python code!
   * More intructions here: https://core.telegram.org/bots#6-botfather
 
-* Intro to Telegram
-* Time of day (morning / afternoon / evening) Bot
-* Math bot: https://www.geekwire.com/2013/commentary-taught-kids-python-programming/
+## Python
+
+* We will use the *Telepot* Python framework for programming our bot.
+  * If not already installed: `sudo pip install telepot`
+  * Introduction, Reference and Examples: https://github.com/nickoala/telepot
+* Open `intro_bot.py` in IDLE.
+
+## Notes
+
+Time of day (morning / afternoon / evening) Bot
+Math bot: https://www.geekwire.com/2013/commentary-taught-kids-python-programming/
 
