@@ -28,7 +28,10 @@
 
 ### Python intro: 11:20 - 11:50
 
-intro.py
+* Start Thony (Python IDE) and open intro.py
+* Optional (can skip these):
+  * 18, 19, 20, 21, 23
+  * 23 is a fun little exercise and will earn a special bonus!
 
 ### Telegram Intro: 11:50 - 12:45
 
