@@ -19,7 +19,7 @@
 ## Python
 
 * We will use the *Telepot* Python framework for programming our bot.
-  * If not already installed: `sudo pip install telepot`
+  * If not already installed: `sudo pip3 install telepot`
   * Introduction, Reference and Examples: https://github.com/nickoala/telepot
 * Open `intro_bot.py`. Follow instructions. Make magic happen!
 
