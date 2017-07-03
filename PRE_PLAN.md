@@ -28,7 +28,7 @@
   * Timezone: Asia / Hong Kong
   * Keyboard: US
   * `git clone https://github.com/gritcoding/telegram.git`
-  * `sudo pip install telepot`
+  * `sudo pip3 install telepot`
 * OpenWeatherMap:
   * Get an API key: http://openweathermap.org/appid
 
