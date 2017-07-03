@@ -34,10 +34,13 @@ def handle(message):
                     reply = "Please say hello first!"
             else:
                 reply = "Please say hello or bye."
+        else:
+            reply = ''
     else:
         reply = "I don't understand!"
         
-    bot.sendMessage(chat_id, reply)
+    if (reply):
+        bot.sendMessage(chat_id, reply)
     pprint(hello)
     print()
     return
