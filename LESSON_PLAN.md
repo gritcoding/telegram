@@ -30,7 +30,7 @@
 
 ### Python intro: 11:20 - 11:50 [Naeem]
 
-* Start Thonny (Python IDE) and open intro.py
+* Start Thonny (Python IDE) and open [intro.py](intro.py)
 * Follow the instructions, press F5 to run your code, CTRL+F5 to debug
 * In intro we will learn:
   * Python syntax (indentation for blocks!)
