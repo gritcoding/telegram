@@ -14,21 +14,21 @@
 
 ## Programming Workshop [Naeem, Anakin, Reno, Tino, Vicky]
 
-### Introductions: 10:50 - 11:00
+### Introductions: 10:50 - 11:00 [Naeem]
 
 * Student-Vonteer pairings and seating.
 * Volunteers and students say hello.
 * Students: names, form, school, why they are here, what they hope to learn.
 * Vounteer: name, what they do, why they enjoy programming. Introduce your students to the rest of the class.
 
-### Raspberry Pi, programming intro: 11:00 - 11:20
+### Raspberry Pi, programming intro: 11:00 - 11:20 [Naeem]
 
 * Video: [What is Raspberry Pi?](https://www.youtube.com/watch?v=uXUjwk2-qx4)
 * Unbox, assemble, turn on Raspi
 * Video: [Code Stars](https://www.youtube.com/watch?v=dU1xS07N-FA) (first minute)
 * Video: [Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
 
-### Python intro: 11:20 - 11:50
+### Python intro: 11:20 - 11:50 [Naeem]
 
 * Start Thonny (Python IDE) and open intro.py
 * Follow the instructions, press F5 to run your code, CTRL+F5 to debug
@@ -48,7 +48,7 @@
   * 18, 19, 20, 21, 23
   * 23 is a fun little exercise and will earn a special bonus if completed!
 
-### Telegram Intro: 11:50 - 12:45
+### Telegram Intro: 11:50 - 12:45 [Naeem]
 
 [Telegram and Bot introduction](BOT_INTRO.md)
 
@@ -58,17 +58,17 @@
 
 ### Lunch: 13:00 - 13:45
 
-## Back to work [[Naeem, Anakin, Reno, Tino, Vicky]
+## Back to work [Anakin, Vicky]
 
 ### Weather API Bot: 13:45 - 16:00
 
 * Intro to REST APIs
-* Choice of APIs?
-* Bot extensions
+* Weather Bot
+* Bot extensions?
 
-### Sharing and presentation: 16:00 - 16:15
+### Sharing and presentation: 16:00 - 16:15 [Naeem]
 
-### The End: 16:15 - 16:30
+### The End: 16:15 - 16:30 [Naeem]
 
 * [Student Survey](https://goo.gl/forms/NoldzzeR92vCXG5G3)
 * [Volunteer Survey](https://goo.gl/forms/vfZRlytLRS3HbZLh1)
