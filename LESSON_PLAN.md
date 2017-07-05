@@ -4,13 +4,24 @@
 
 ### Welcome: 9:00 - 9:15 [Rebecca]
 
-### Intro: 9:15 - 9:25 [Naeem, Lea, TWF]
+* Level 9 Lobby
+
+### Intro: 9:15 - 9:25 [Vicky, Lea, TWF]
+
+* Auditorium
 
 ### Ice breaker: 9.25 - 9:40 [Vicky]
 
+* Auditorium
+
 ### Panel: 9.40 - 10:00 [Grace, Wiz, Lydia]
 
+* Auditorium
+
 ### Speed Networking: 10:00 - 10:45 [Rebecca, Sarah]
+
+* Event Area
+* Rep from TWF will speak with workshop volunteers at 10:30
 
 ## Programming Workshop [Naeem, Anakin, Reno, Tino, Vicky]
 
@@ -30,7 +41,7 @@
 
 ### Python intro: 11:20 - 11:50 [Naeem]
 
-* Start Thonny (Python IDE) and open intro.py
+* Start Thonny (Python IDE) and open [intro.py](intro.py)
 * Follow the instructions, press F5 to run your code, CTRL+F5 to debug
 * In intro we will learn:
   * Python syntax (indentation for blocks!)
@@ -52,11 +63,15 @@
 
 [Telegram and Bot introduction](BOT_INTRO.md)
 
-## Tour & Lunch [Rebecca, Sarah]
+## Tour & Lunch [Rebecca]
 
-### Office Tour: 12:45 - 13:00
+### Office Tour: 12:45 - 13:00 [Theadore (CRES)]
 
-### Lunch: 13:00 - 13:45
+* 2 groups
+
+### Lunch: 13:00 - 13:45 
+
+* Event Area
 
 ## Back to work [Anakin, Vicky]
 

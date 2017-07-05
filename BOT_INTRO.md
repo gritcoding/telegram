@@ -21,14 +21,14 @@
 * We will use the *Telepot* Python framework for programming our bot.
   * If not already installed: `sudo pip3 install telepot`
   * Introduction, Reference and Examples: https://github.com/nickoala/telepot
-* Open `intro_bot.py`. Follow instructions. Make magic happen!
+* Open [intro_bot.py](intro_bot.py). Follow instructions. Make magic happen!
 
 ## Parrot Bot
 
 * Now we will teach our Bot to talk back, with bells and whistles.
-* Open `parrot_boy.py` 
+* Open [parrot_boy.py](parrot_bot.py)
 
 ## Polite Bot (optional)
 
 * Our Bot can be smarter. 
-* Open `polite_bot.py`
+* Open [polite_bot.py](polite_bot.py)
