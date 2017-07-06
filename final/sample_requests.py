@@ -2,10 +2,10 @@ from pprint import pprint
 import requests  # http://docs.python-requests.org/en/master/user/quickstart/
 import cfscrape  # https://github.com/Anorov/cloudflare-scrape  # pip3 install cfscrape
 
-TELEGRAM_API_TOKEN = '369935459:AAGM3_yfHNmtdcSZi8QFP5pgpl24-VK6P7w'
-WEATHER_API_TOKEN = '2624c50872bfb55133dae6592058d5a9'
-POLLUTION_API_TOKEN = '4152717b1cf01e12812c588a310d762bea5799f1'
-TRANSLATE_API_TOKEN = 'AIzaSyAuGBOw2KGYTp5eAl5k4LzQDwp_qrEEAE0'
+TELEGRAM_API_TOKEN = 
+WEATHER_API_TOKEN = 
+POLLUTION_API_TOKEN = 
+TRANSLATE_API_TOKEN = 
 
 WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather?APPID=%s&q=%s"
 FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast?APPID=%s&q=%s"

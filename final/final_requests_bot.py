@@ -7,7 +7,7 @@ from sample_requests import pollution
 from sample_requests import translate
 from sample_requests import pokemon
 
-TELEGRAM_API_TOKEN = '369935459:AAGM3_yfHNmtdcSZi8QFP5pgpl24-VK6P7w' # Copy your token here.
+TELEGRAM_API_TOKEN = # Copy your token here.
 
 bot = telepot.Bot(TELEGRAM_API_TOKEN)
 

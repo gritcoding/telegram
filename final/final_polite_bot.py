@@ -3,7 +3,7 @@ from telepot.loop import MessageLoop
 from pprint import pprint
 import datetime
 
-API_TOKEN = '369935459:AAGM3_yfHNmtdcSZi8QFP5pgpl24-VK6P7w' ###
+API_TOKEN = # Copy your token here.
 bot = telepot.Bot(API_TOKEN)
 
 hello = { }
