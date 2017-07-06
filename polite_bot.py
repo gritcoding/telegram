@@ -107,6 +107,8 @@ def time_of_day():
 # NOTE: We are using 'and' to combine boolean tests.
 #       We are also using if, elif, else for multiple conditions.
 
+# HINT: is your reply string getting messy? Try this:
+#       reply = "%s. Nice to meet you %s!" % (time_of_day, from_name)
 
 # BONUS FEATURES:
 
