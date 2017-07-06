@@ -78,8 +78,8 @@
 ### Weather API Bot: 13:45 - 16:00
 
 * Intro to REST APIs
-* Weather Bot
-* Bot extensions?
+* [Weather Bot](https://github.com/girlsgotech2017/weatherbot_py), [Empty](https://github.com/girlsgotech2017/weatherbot_py_empty)
+* [Other APIs](final/sample_requests.py)
 
 ### Sharing and presentation: 16:00 - 16:15 [Naeem]
 
