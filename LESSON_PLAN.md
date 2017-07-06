@@ -56,7 +56,7 @@
   * ''' multi line comment
 * To try commands you can type them in the shell directly.
 * Optional (can skip these):
-  * 18, 19, 20, 21, 23
+  * 20, 21, 23
   * 23 is a fun little exercise and will earn a special bonus if completed!
 
 ### Telegram Intro: 11:50 - 12:45 [Naeem]
